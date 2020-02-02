@@ -6,7 +6,7 @@
     ]
   ],
   "_from": "github:wet-boew/wet-boew-cdn#v4.0-dist",
-  "_id": "wet-boew@github:wet-boew/wet-boew-cdn#ce8dcd5539daf6108d48423225b62d4107eaab69",
+  "_id": "wet-boew@github:wet-boew/wet-boew-cdn#49775bfddea01dfdfa3a41645a31f95e551047ed",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/wet-boew",
@@ -22,7 +22,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "github:wet-boew/wet-boew-cdn#ce8dcd5539daf6108d48423225b62d4107eaab69",
+  "_resolved": "github:wet-boew/wet-boew-cdn#49775bfddea01dfdfa3a41645a31f95e551047ed",
   "_spec": "github:wet-boew/wet-boew-cdn#v4.0-dist",
   "_where": "/home/travis/build/wet-boew/cdts-sgdc",
   "author": {
