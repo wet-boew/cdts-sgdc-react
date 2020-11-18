@@ -2,7 +2,7 @@
   "_args": [
     [
       "github:wet-boew/wet-boew-cdn#v4.0-dist",
-      "/home/travis/build/wet-boew/cdts-sgdc"
+      "/home/travis/build/StdGit/cdts-sgdc"
     ]
   ],
   "_from": "github:wet-boew/wet-boew-cdn#v4.0-dist",
@@ -24,7 +24,7 @@
   ],
   "_resolved": "github:wet-boew/wet-boew-cdn#49775bfddea01dfdfa3a41645a31f95e551047ed",
   "_spec": "github:wet-boew/wet-boew-cdn#v4.0-dist",
-  "_where": "/home/travis/build/wet-boew/cdts-sgdc",
+  "_where": "/home/travis/build/StdGit/cdts-sgdc",
   "author": {
     "name": "wet-boew-bot"
   },
